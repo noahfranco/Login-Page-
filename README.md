@@ -2,10 +2,10 @@
 
 Application incorporates some great technologies such as the following listed below 🔥:
 
-Javascript:
+    Javascript:
 
-[x] HTML
-[x] CSS
+    [x] HTML
+    [x] CSS
 
 ## What does it do?
 Login-page is a small application built to demonstrate my HTML and CSS capability.
